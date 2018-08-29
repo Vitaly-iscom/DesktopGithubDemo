@@ -1,9 +1,3 @@
 This text is printed in master branch
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 This is new text from bugFix branch
->>>>>>> dd0ea2a1103ce1e389fd0b1239655f437bd713cb
-=======
-This is new text from bugFix branch
->>>>>>> dd0ea2a1103ce1e389fd0b1239655f437bd713cb
+
